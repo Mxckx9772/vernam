@@ -11,7 +11,7 @@ Ce projet met en œuvre le chiffrement de Vernam pour encoder une chaîne de car
 
 1.  **Clonez le dépôt :**
     ```bash
-    git clone <URL_DU_DEPOT_GIT>
+    git clone https://github.com/Mxckx9772/vernam.git
     ```
 2.  **Compilez le projet :**
     Naviguez jusqu'au répertoire du projet cloné et exécutez :
